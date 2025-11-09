@@ -1,5 +1,5 @@
 ## Testing git through GUI
--Fuuuuuuuuckkkkkkkkk
+- it works
 
 - commit 1
 - commit 2
